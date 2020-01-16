@@ -1,3 +1,5 @@
+way to fix zenity error:
+
 su root
 xhost +
 docker run
