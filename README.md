@@ -5,6 +5,8 @@ This is storage repo of Pifan Community Steamlink Aarch64 Game Streaming Softwar
 
 This branch use Raspbian-Strech as base image for better compability.(Not Recommanded)
 
+This version is treat as v2 and have stopped maintaining
+
 File Chain:
 
 1. Docker build file.
