@@ -3,7 +3,7 @@
 # This is the Steam script that typically resides in /usr/bin
 # It will download the Steam Link files if necessary and launch them
 
-UPDATE_URL="http://media.steampowered.com/steamlink/rpi"
+UPDATE_URL="http://steam.pifan.org:18081"
 STEAMPACKAGE=steamlink
 STEAMLINK=steamlink.sh
 STEAMLINK_DATA_HOME="${XDG_DATA_HOME:-$HOME/.local/share}"/SteamLink
