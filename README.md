@@ -3,6 +3,8 @@ Build Steamlink Game streaming software for Aarch64 system of Pifan Community, t
 
 This is storage repo of Pifan Community Steamlink Aarch64 Game Streaming Software. Based on Docker. Container Technology.
 
+This branch use Debian-buster as base image
+
 File Chain:
 
 1. Docker build file.
