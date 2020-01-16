@@ -5,6 +5,8 @@ This is storage repo of Pifan Community Steamlink Aarch64 Game Streaming Softwar
 
 This branch use Debian-buster as base image
 
+This use Pifan.org as proxy server to make auto upate working in China Mainland
+
 File Chain:
 
 1. Docker build file.
