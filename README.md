@@ -2,7 +2,6 @@
 Build Steamlink Game streaming software for Aarch64 system of Pifan Community, this is official storage repo.
 
 This is storage repo of Pifan Community Steamlink Aarch64 Game Streaming Software. Based on Docker. Container Technology.
-This Branch use Pifan.org as Proxy server to make Auto update working in China mainland
 
 File Chain:
 
