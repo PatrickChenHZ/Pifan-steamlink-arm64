@@ -1,0 +1,5 @@
+This folder is debian buster based Pifan-Steamlink for Pifan arm64 OS
+Pifan.org proxy
+This is official REV1.0 insider previewing
+normal launch:
+docker run --net=host --device=/dev/input/ --device=/dev/vchiq/ --volume="$HOME/.Xauthority:/root/.Xauthority:rw" --env="DISPLAY=:0.0" steamlink:1.3
