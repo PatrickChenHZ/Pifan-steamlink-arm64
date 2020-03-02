@@ -18,3 +18,6 @@ File Chain:
 4. Command to start container.
 5. Trouble-shooting Instruction.
 2. Software Configure Menu.
+
+Pifan auth usb key required
+
