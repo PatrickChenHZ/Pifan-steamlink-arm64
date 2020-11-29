@@ -26,7 +26,7 @@ RUN apt-get -y update && apt-get -y install gnupg2 zenity && \
 	libxkbcommon-x11-0:armhf \
 	net-tools
 
-#unlock root limit and activate external GPU        
+#unlock root limit and allow VC4 GPU        
 COPY files/steamlink /usr/bin/steamlink
 
 #unlock cpu limit
