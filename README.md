@@ -21,5 +21,6 @@ File Tree:
 5. Trouble-shooting Instruction.
 2. Software Configure Menu.
 
-Pifan auth usb key required
+2020/11/29 update Newest testing shows that docker container is no longer working out of box, Prob reason: Update made to base image of buster && update made to steamlink
+
 
