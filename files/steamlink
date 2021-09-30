@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-#
-# This is the Steam script that typically resides in /usr/bin
-# It will download the Steam Link files if necessary and launch them
+
 
 UPDATE_URL="http://media.steampowered.com/steamlink/rpi"
 STEAMPACKAGE=steamlink
